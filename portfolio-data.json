@@ -1,0 +1,169 @@
+{
+  "settings": {
+    "name": "Ravi Kiran Kuchillapati",
+    "title": "Computer Science Student",
+    "location": "India",
+    "summary": "Dedicated computer science student with a passion for innovation and a strong foundation in software development and machine learning.",
+    "profileImage": "https://media.istockphoto.com/id/1360063450/photo-headshot-profile-picture-young-businessman-sit-in-kitchen-webcam-view.jpg?s=612x612&w=0&k=20&c=6DoR9bff-RQ5N31LV_tQPsj_hT1HPxGAIn07mLkLxgc=",
+    "primaryColor": "#DC2626"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Contact Me",
+          "url": "mailto:ravikirank.vjit@gmail.com",
+          "isPrimary": true,
+          "icon": "mail"
+        },
+        {
+          "text": "Download Resume",
+          "url": "#",
+          "isPrimary": false,
+          "icon": "download"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "title": "About Me",
+      "content": "Ravi Kiran is a driven Computer Science student eager to apply his knowledge and skills in a challenging and innovative environment. With a solid foundation in software development and a passion for emerging technologies, he is committed to contributing to the success of any organization. His experience includes Android development and machine learning projects, showcasing his ability to solve complex problems and deliver effective solutions. Ravi is actively seeking opportunities to further enhance his expertise and make a meaningful impact in the tech industry.",
+      "skills": {
+        "enabled": true,
+        "title": "Skills",
+        "items": [
+          "Java",
+          "SQL",
+          "Python",
+          "C",
+          "C++",
+          "MS Office",
+          "Android Development",
+          "Problem Solving",
+          "Teamwork",
+          "Communication",
+          "Machine Learning"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Experience",
+      "items": [
+        {
+          "company": "SP Technologies",
+          "position": "Android Developer",
+          "period": "11/2018 - 05/2019",
+          "description": "Participated in a 6-month industrial training program focused on Android development. Proficiently troubleshooted technical issues, achieving a 90% success rate. Enhanced application features to improve performance and reliability. Designed and implemented an Advanced Weather Application using the OpenWeather API to provide real-time weather updates."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Projects",
+      "items": [
+        {
+          "title": "Advice Mate - GPT Powered Chatbots",
+          "description": "Developed a suite of 15+ chatbots using the OpenAI API to provide users with intelligent assistance in various fields. These chatbots were trained on extensive datasets, enabling them to understand user queries and provide relevant, context-aware responses. This project demonstrates proficiency in natural language processing and API integration.",
+          "tags": [
+            "Python",
+            "OpenAI API",
+            "NLP",
+            "Chatbots"
+          ],
+          "previewUrl": "https://advicemate.io"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Vidya Jyothi Institute of Technology",
+          "degree": "B.tech in Computer Science",
+          "period": "06/2021 - Present",
+          "description": "Currently pursuing a Bachelor's degree in Computer Science, focusing on software development, data structures, and algorithms."
+        },
+        {
+          "institution": "RRS College of Engineering & Technology",
+          "degree": "Diploma In Computer Engineering",
+          "period": "06/2016 - 06/2019",
+          "description": "Completed a Diploma in Computer Engineering, gaining foundational knowledge in computer hardware and software."
+        },
+        {
+          "institution": "Shishu Vihar High School",
+          "degree": "SSC",
+          "period": "06/2015 - 05/2016",
+          "description": "Completed Secondary School Certificate with a GPA of 8.0."
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Verzeo Machine Learning Course",
+          "period": "05/2022",
+          "description": "Completed a course on Machine Learning using Python, gaining knowledge of various algorithms, models, and techniques."
+        },
+        {
+          "title": "Certified Android Developer",
+          "period": "05/2019",
+          "description": "Completed a 6-month industrial training program focused on Android development."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "ravikirank.vjit@gmail.com",
+      "phone": "9014537609",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "LinkedIn",
+          "url": "#",
+          "icon": "globe"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "name": "Home",
+        "url": "#hero"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2024 Ravi Kiran Kuchillapati. All rights reserved."
+  }
+}
